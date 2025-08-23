@@ -13,6 +13,16 @@ A fairness-preserving ML framework integrating data bias quantification via Eart
 - Random Forest
 - Support Vector Machine
 
+**Fairness Metrics used**
+- Demographic parity
+- Equalised odds
+- Equal opportunity
+- False positive rate parity
+- Treatment equality
+- Discrimination score
+- Disparate Impact
+- Balanced Error Rate
+
 **File Descriptor**
 main.py: Python script implementing the fairness-aware ML pipeline.
 
