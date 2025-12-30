@@ -32,4 +32,4 @@ main.py: Python script implementing the fairness-aware ML pipeline.
 - Run the Python script to explore the fairness evaluation workflow.
 
 **Reference**
-This work is based on the study titled "_A Fairness-Preserving Framework for Machine Learning: Evaluation Across Multiple Datasets and Ablation Study_".
+Uddin, S., Lu, H., and Hajati, F., Fairness-preserving framework for machine learning: data bias quantification, model evaluation, and robustness across multiple datasets. AI and Ethics, 2026. 6(1): p. 25.
