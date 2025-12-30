@@ -23,7 +23,7 @@ A fairness-preserving ML framework integrating data bias quantification via Eart
 - Disparate Impact
 - Balanced Error Rate
 
-**File Descriptor**
+**File Descriptor:**
 main.py: Python script implementing the fairness-aware ML pipeline.
 
 **How to Run**
@@ -31,5 +31,5 @@ main.py: Python script implementing the fairness-aware ML pipeline.
 - Install the required packages (e.g., pandas, scikit-learn, numpy).
 - Run the Python script to explore the fairness evaluation workflow.
 
-**Reference**
-- Uddin, S., Lu, H., and Hajati, F., Fairness-preserving framework for machine learning: data bias quantification, model evaluation, and robustness across multiple datasets. AI and Ethics, 2026. 6(1): p. 25.
+**Reference:**
+Uddin, S., Lu, H., and Hajati, F., Fairness-preserving framework for machine learning: data bias quantification, model evaluation, and robustness across multiple datasets. AI and Ethics, 2026. 6(1): p. 25.
